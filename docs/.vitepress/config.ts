@@ -15,6 +15,7 @@ const nav: DefaultTheme.Config['nav'] = [
       { text: 'Contributing', link: '/development/contributing' },
     ],
   },
+  { text: 'NuxtStart', link: 'https://nuxtstart.com', target: '_blank', },
 ]
 
 if (isDev)
